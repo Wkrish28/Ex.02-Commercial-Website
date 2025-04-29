@@ -1,4 +1,4 @@
-![Screenshot 2025-04-29 153301](https://github.com/user-attachments/assets/f9e9658d-fc2b-40c2-b14e-c3061469ae97)# Ex02 Commercial Website
+# Ex02 Commercial Website
 ## Date:29-04-2025
 
 ## AIM
